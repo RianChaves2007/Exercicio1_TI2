@@ -1,0 +1,1 @@
+Este é o meu primeiro projeto commitado feito na IDE Eclipse. Não fui capáz de conectar meu GitHub Acadêmico à IDE, entretanto, consegui fazer a relação do repositório remoto com o repositório local via terminal dentro da pasta.
